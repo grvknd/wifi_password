@@ -1,2 +1,9 @@
 # wifi_password
-retrieves the wifi name and it's password from the system
+Wi-Fi Password Retriever (Windows)
+
+This Python script retrieves Wi-Fi passwords stored on the current Windows machine.
+
+Requirements:
+
+Python 3.x
+subprocess module (included in standard library)
